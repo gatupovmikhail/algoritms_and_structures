@@ -1,2 +1,2 @@
 # algoritms_and_structures
-Homeworks for algoritms and structures
+Implementation some algoritms and structures
